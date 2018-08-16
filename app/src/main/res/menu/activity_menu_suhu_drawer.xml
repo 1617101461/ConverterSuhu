@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/celcius"
+            android:title="Celcius" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/forenheit"
+            android:title="Farenheit" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/kelvin"
+            android:title="Kelvin" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/reamur"
+            android:title="Reamur" />
+    </group>
+
+    <item android:title="Tentang">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/aboute"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

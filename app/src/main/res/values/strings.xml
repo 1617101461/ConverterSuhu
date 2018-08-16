@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ConverterSuhu</string>
+    <string name="title_activity_menu_suhu">MenuSuhu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="rumussatu">1. Rumus Konversi Suhu dari Celcius ke Reamur
+        Cara Mencari Konversi Suhu dari Skala Suhu Celcius ke Skala Suhu Reamur bisa kalian gunakan rumus seperti dibawah ini :</string>
+
+    <string name="r">R = (4/5) C</string>
+
+    <string name="di">Diketahui :</string>
+
+    <string name="R">R adalah Suhu dlm Skala Reamur</string>
+
+    <string name="C">C adalah Suhu dlm Skala Celcius</string>
+    <string name="rumusdua">2. Rumus Konversi Suhu Celcius ke Fahrenheit
+        Cara Menghitung Konversi Suhu Celcius ke Skala Suhu Fahrenheit bisa kalian lihat dan menggunakan rumusnya seperti dibawah ini :</string>
+
+    <string name="f">F = (9/5) C + 32</string>
+
+    <string name="diket">Diketahui :</string>
+
+    <string name="F">F adalah Suhu dlm Skala Fahrenheit</string>
+
+    <string name="c">C adalah Suhu dlm Skala Celcius</string>
+    <string name="rumustiga">3. Rumus Konversi Suhu Celcius ke Kelvin
+        Lalu didalam Rumus Mencari Konversi Suhu dari Skala Suhu Celcius kedalam Skala Suhu Kelvin bisa kalian gunakan memakai Rumus dibawah ini :</string>
+
+    <string name="k">K = C + 273</string>
+
+    <string name="d">Diketahui :</string>
+
+    <string name="K">K adalah Suhu dlm Skala Kelvin</string>
+
+    <string name="lah">C adalah Suhu dlm Skala Celcius</string>
+    <string name="kriteria">Suhu (temperatur) adalah suatu besaran panas yang dirasakan oleh manusia. Satuan suhu yang biasa digunakan di Indonesia adalah derajat celcius (°C).
+Pentingnya faktor suhu terhadap kehidupan dan aktifitas manusia menyebabkan pengamatan suhu udara yang dilakukan oleh stasiun meteorologi dan klimatologi memiliki beberapa kriteria diantaranya:</string>
+    <string name="satu">*Suhu udara permukaan (suhu udara aktual, rata-rata, maksimum dan minimum).</string>
+    <string name="dua">*Suhu udara di beberapa ketinggian/ lapisan atmosfer (hingga ketinggian ± 35 Km).</string>
+    <string name="tiga">*Suhu tanah di beberapa kedalaman tanah (hingga kedalaman 1 m).</string>
+    <string name="empat">*Suhu permukaan air dan suhu permukaan laut.</string>
+    <string name="temprature">Temperatur udara adalah tingkat atau derajat panas dari kegiatan molekul dalam atmosfer yang dinyatakan dengan skala Celcius, Fahrenheit, atau skala Reamur.</string>
+    <string name="aboute">Aplikasi Converter Suhu ini adalah aplikasi yang berguna untuk memudahkan dalam pengkonversian suhu seperti Celcius Farenheit Kelvin dan Reamur.</string>
+    <string name="create">Created By :</string>
+    <string name="cre">Rizki Nur Fadilah</string>
+</resources>
